@@ -1,0 +1,53 @@
+body{
+    background-color: #342e37;
+}
+
+h1{
+    color:#6ea4bf;
+    font-family: fantasy;
+    text-shadow: 10px, 10px, yellow;
+    padding-bottom: 45px;
+}
+
+.navs {
+    width: 25%;
+    overflow: auto;
+    text-align: center;
+    margin: 35px;
+}
+
+p {
+    color: #6ea4bf;
+    padding: 50px;
+}
+
+table, tr th, td {
+    color: #6ea4bf;
+    border: 3px solid #6ea4bf ;   
+}
+
+li  {
+    color: #6ea4bf;
+    text-align: left;
+    background-color: whitesmoke;
+    box-shadow: 3px 3px #6ea4bf;
+    border:  3px solid black;
+    margin-top: 25px;    
+}
+nav{
+    padding-bottom: 45px;
+}
+
+.Plunder {
+    padding-top: 50px;
+    color: #6ea4bf;
+    text-shadow: 25px 10px black;
+}
+
+label{
+    align-items: 25%;
+}
+
+
+
+
